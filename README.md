@@ -12,5 +12,5 @@ This repository contains a machine learning model for detecting fake news, devel
 - **Performance Evaluation**: Implements various performance metrics, including accuracy, precision, recall, F1-score, and confusion matrix, to evaluate the model.
 - **Visualization**: Provides visualizations of model performance through graphs and charts, aiding in the understanding of its efficacy.
 
-#*Dataset*
+# *Dataset*
 The dataset for this file can be found here: https://www.kaggle.com/c/fake-news/data
