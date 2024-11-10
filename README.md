@@ -13,4 +13,4 @@ This repository contains a machine learning model for detecting fake news, devel
 - **Visualization**: Provides visualizations of model performance through graphs and charts, aiding in the understanding of its efficacy.
 
 # *Dataset*
-The dataset for this file can be found here: https://www.kaggle.com/c/fake-news/data
+The dataset for this file can be found here: https://www.kaggle.com/c/fake-news/data 
